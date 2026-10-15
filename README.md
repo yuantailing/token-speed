@@ -7,7 +7,7 @@ Measure prefill latency and decode throughput through the local `codex app-serve
 Requires Python 3.11+ and Codex app-server.
 
 ```bash
-python3 -m pip install -e .
+python3 -m pip install token-speed-test
 token-speed run
 ```
 
